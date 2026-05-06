@@ -1,0 +1,9 @@
+Project_ID,Project_Name,Department,Status,Hours_Spent,Team_Members,Start_Date
+101,Sales Analysis,Sales,Completed,12,3,2026-01-05
+102,HR Report,HR,Completed,8,2,2026-01-10
+103,Marketing,Marketing,In Progress,15,4,2026-02-01
+104,Sales Analysis,Sales,Completed,10,3,2026-02-05
+105,Finance Dashboard,Finance,In Progress,20,5,2026-03-01
+106,Marketing,Marketing,Completed,9,4,2026-03-10
+107,HR Report,HR,Completed,7,2,2026-04-01
+108,Finance Dashboard,Finance,In Progress,18,5,2026-04-15
